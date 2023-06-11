@@ -64,58 +64,58 @@ export default {
         {
           id: 1,
           popup: false,
-          avif: require("../assets/carousel/2.avif"),
-          jpg: require("../assets/carousel/2.jpg"),
-          img: require("../assets/carousel/2.avif")
-        },
-        {
-          id: 2,
-          popup: false,
-          avif: require("../assets/carousel/6.avif"),
-          jpg: require("../assets/carousel/6.jpg"),
-          img: require("../assets/carousel/6.avif")
-        },
-        {
-          id: 3,
-          popup: false,
-          avif: require("../assets/carousel/7.avif"),
-          jpg: require("../assets/carousel/7.jpg"),
-          img: require("../assets/carousel/7.avif")
-        },
-        {
-          id: 4,
-          popup: false,
-          avif: require("../assets/carousel/8.avif"),
-          jpg: require("../assets/carousel/8.jpg"),
-          img: require("../assets/carousel/8.avif")
-        },
-        {
-          id: 5,
-          popup: false,
           avif: require("../assets/carousel/1.avif"),
           jpg: require("../assets/carousel/1.jpg"),
           img: require("../assets/carousel/1.avif")
         },
         {
-          id: 6,
+          id: 2,
           popup: false,
-          avif: require("../assets/carousel/5.avif"),
-          jpg: require("../assets/carousel/5.jpg"),
-          img: require("../assets/carousel/5.avif")
+          avif: require("../assets/carousel/2.avif"),
+          jpg: require("../assets/carousel/2.jpg"),
+          img: require("../assets/carousel/2.avif")
         },
         {
-          id: 7,
+          id: 3,
           popup: false,
           avif: require("../assets/carousel/3.avif"),
           jpg: require("../assets/carousel/3.jpg"),
           img: require("../assets/carousel/3.avif")
         },
         {
-          id: 8,
+          id: 4,
           popup: false,
           avif: require("../assets/carousel/4.avif"),
           jpg: require("../assets/carousel/4.jpg"),
           img: require("../assets/carousel/4.avif")
+        },
+        {
+          id: 5,
+          popup: false,
+          avif: require("../assets/carousel/5.avif"),
+          jpg: require("../assets/carousel/5.jpg"),
+          img: require("../assets/carousel/5.avif")
+        },
+        {
+          id: 6,
+          popup: false,
+          avif: require("../assets/carousel/6.avif"),
+          jpg: require("../assets/carousel/6.jpg"),
+          img: require("../assets/carousel/6.avif")
+        },
+        {
+          id: 7,
+          popup: false,
+          avif: require("../assets/carousel/7.avif"),
+          jpg: require("../assets/carousel/7.jpg"),
+          img: require("../assets/carousel/7.avif")
+        },
+        {
+          id: 8,
+          popup: false,
+          avif: require("../assets/carousel/8.avif"),
+          jpg: require("../assets/carousel/8.jpg"),
+          img: require("../assets/carousel/8.avif")
         },
         {
           id: 9,
@@ -215,7 +215,48 @@ export default {
           jpg: require("../assets/carousel/22.jpg"),
           img: require("../assets/carousel/22.avif")
         },
-
+        {
+          id: 23,
+          popup: false,
+          avif: require("../assets/carousel/23.avif"),
+          jpg: require("../assets/carousel/23.jpg"),
+          img: require("../assets/carousel/23.avif")
+        },
+        {
+          id: 24,
+          popup: false,
+          avif: require("../assets/carousel/24.avif"),
+          jpg: require("../assets/carousel/24.jpg"),
+          img: require("../assets/carousel/24.avif")
+        },
+        {
+          id: 25,
+          popup: false,
+          avif: require("../assets/carousel/25.avif"),
+          jpg: require("../assets/carousel/25.jpg"),
+          img: require("../assets/carousel/25.avif")
+        },
+        {
+          id: 26,
+          popup: false,
+          avif: require("../assets/carousel/26.avif"),
+          jpg: require("../assets/carousel/26.jpg"),
+          img: require("../assets/carousel/26.avif")
+        },
+        {
+          id: 27,
+          popup: false,
+          avif: require("../assets/carousel/27.avif"),
+          jpg: require("../assets/carousel/27.jpg"),
+          img: require("../assets/carousel/27.avif")
+        },
+        {
+          id: 28,
+          popup: false,
+          avif: require("../assets/carousel/28.avif"),
+          jpg: require("../assets/carousel/28.jpg"),
+          img: require("../assets/carousel/28.avif")
+        },
       ],
       dialog: false,
       dialogImg: "",
