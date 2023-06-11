@@ -257,6 +257,20 @@ export default {
           jpg: require("../assets/carousel/28.jpg"),
           img: require("../assets/carousel/28.avif")
         },
+        {
+          id: 29,
+          popup: false,
+          avif: require("../assets/carousel/29.avif"),
+          jpg: require("../assets/carousel/29.jpg"),
+          img: require("../assets/carousel/29.avif")
+        },
+        {
+          id: 30,
+          popup: false,
+          avif: require("../assets/carousel/30.avif"),
+          jpg: require("../assets/carousel/30.jpg"),
+          img: require("../assets/carousel/30.avif")
+        },
       ],
       dialog: false,
       dialogImg: "",
